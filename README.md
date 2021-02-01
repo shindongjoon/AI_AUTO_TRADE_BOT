@@ -17,9 +17,9 @@ Python = 3.7(32-bit)
 Run below commands in anaconda prompt
 
 
-```Python
-conda create -n 이름
-conda activate 이름
+```Anaconda
+conda create -n ENV
+conda activate ENV
 conda config --env --set subdir win-32
 conda install python=3.7
 ```
