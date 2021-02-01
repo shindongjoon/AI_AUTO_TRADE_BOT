@@ -10,6 +10,7 @@ StartDate : 2021.01.28
 Anaconda = 4.8.2(64-bit)
 
 Python = 3.7(32-bit)
+
 (Kium Securities's Open api does not support 64-bit python.)
 
 ### How to set python to 32-bit in 64-bit Anaconda
